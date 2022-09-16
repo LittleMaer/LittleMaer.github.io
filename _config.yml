@@ -100,6 +100,6 @@ search:
 deploy:
   type: git
   repo:
-      github: git@github.com:LittleMaer/LittleMaer.github.io.git
+      github: https://github.com/LittleMaer/LittleMaer.github.io
       # coding: https://e.coding.net/LittleMaer/LittleMaer/LittleMaer.git
   branch: master
