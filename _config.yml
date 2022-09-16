@@ -83,6 +83,13 @@ search:
   format: html
   limit: 10000
 
+# leancloud_counter_security:
+#   enable_sync: false
+#   app_id: HCvI2csWrJICH7Wbcv8345ed-MdYXbMMI
+#   app_key: KlSAdmtxBEVuEMfp7uqjiMG4
+#   username: LittleMaer
+#   password: 124 
+
 # Security
 ##
 encrypt:
@@ -94,4 +101,5 @@ deploy:
   type: git
   repo:
       github: git@github.com:LittleMaer/LittleMaer.github.io.git
+      # coding: https://e.coding.net/LittleMaer/LittleMaer/LittleMaer.git
   branch: master
