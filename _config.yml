@@ -92,8 +92,8 @@ search:
 
 # Security
 ##
-encrypt:
-  enable: true
+# encrypt:
+#   enable: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
